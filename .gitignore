@@ -32,3 +32,5 @@ _book/
 site/
 log.txt
 ip.txt
+vcs.xml
+.idea/*
